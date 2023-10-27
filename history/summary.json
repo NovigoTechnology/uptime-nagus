@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 9539,
-    "timeDay": 9539,
-    "timeWeek": 9539,
-    "timeMonth": 9539,
-    "timeYear": 9539,
+    "time": 5228,
+    "timeDay": 5228,
+    "timeWeek": 5228,
+    "timeMonth": 5228,
+    "timeYear": 5228,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.nagus.app.ico",
     "slug": "demo",
     "status": "down",
-    "uptime": "42.10%",
-    "uptimeDay": "42.10%",
-    "uptimeWeek": "42.10%",
-    "uptimeMonth": "42.10%",
-    "uptimeYear": "42.10%",
+    "uptime": "4.81%",
+    "uptimeDay": "4.81%",
+    "uptimeWeek": "4.81%",
+    "uptimeMonth": "4.81%",
+    "uptimeYear": "4.81%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-27": 1
+      "2023-10-27": 10
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.nagus.app.ico",
     "slug": "docs",
     "status": "down",
-    "uptime": "72.87%",
-    "uptimeDay": "72.87%",
-    "uptimeWeek": "72.87%",
-    "uptimeMonth": "72.87%",
-    "uptimeYear": "72.87%",
+    "uptime": "5.02%",
+    "uptimeDay": "5.02%",
+    "uptimeWeek": "5.02%",
+    "uptimeMonth": "5.02%",
+    "uptimeYear": "5.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-27": 0
+      "2023-10-27": 9
     }
   }
 ]

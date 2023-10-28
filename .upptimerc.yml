@@ -36,5 +36,8 @@ status-website:
 #skipTopicsUpdate: true
 #skipHomepageUpdate: true
 
+i18n:
+  footer: © 2023 [Novigo Technology](https://novigo.com.ar)
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

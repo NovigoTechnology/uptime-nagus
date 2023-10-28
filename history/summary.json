@@ -22,19 +22,19 @@
     "url": "https://demo.nagus.app",
     "icon": "https://icons.duckduckgo.com/ip3/demo.nagus.app.ico",
     "slug": "demo",
-    "status": "down",
-    "uptime": "97.42%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "97.42%",
-    "uptimeMonth": "97.42%",
-    "uptimeYear": "97.42%",
-    "time": 3090,
-    "timeDay": 3090,
-    "timeWeek": 3090,
-    "timeMonth": 3090,
-    "timeYear": 3090,
+    "status": "up",
+    "uptime": "95.51%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "95.51%",
+    "uptimeMonth": "95.51%",
+    "uptimeYear": "95.51%",
+    "time": 3385,
+    "timeDay": 3385,
+    "timeWeek": 3385,
+    "timeMonth": 3385,
+    "timeYear": 3385,
     "dailyMinutesDown": {
-      "2023-10-28": 0,
+      "2023-10-28": 13,
       "2023-10-27": 16
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-28": 596,
+      "2023-10-28": 608,
       "2023-10-27": 34
     }
   }

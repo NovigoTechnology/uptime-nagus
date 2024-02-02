@@ -1,7 +1,7 @@
 url: https://demo.nagus.app
-status: down
-code: 503
-responseTime: 3456
-lastUpdated: 2024-02-01T23:20:49.145Z
+status: up
+code: 200
+responseTime: 2635
+lastUpdated: 2024-02-02T14:21:36.908Z
 startTime: 2023-10-28T12:59:09.238Z
 generator: Upptime <https://github.com/upptime/upptime>

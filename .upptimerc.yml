@@ -5,6 +5,9 @@ repo: uptime-nagus # The name of this repository
 sites:
   - name: Web 
     url: https://www.nagus.app
+  - name: Demo Arandu
+    url: https://arandu.nagus.app
+    icon: https://demo.nagus.app/assets/nagus/images/Logo_Nagus_1024x1024.png
   - name: Sitio de Demo
     url: https://demo.nagus.app
     icon: https://demo.nagus.app/assets/nagus/images/Logo_Nagus_1024x1024.png

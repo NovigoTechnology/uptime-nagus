@@ -38,14 +38,14 @@
     "url": "https://arandu.nagus.app",
     "icon": "https://demo.nagus.app/assets/nagus/images/Logo_Nagus_1024x1024.png",
     "slug": "demo-arandu",
-    "status": "up",
-    "uptime": "84.77%",
-    "uptimeDay": "44.83%",
+    "status": "down",
+    "uptime": "84.85%",
+    "uptimeDay": "46.88%",
     "uptimeWeek": "78.61%",
-    "uptimeMonth": "84.77%",
-    "uptimeYear": "84.77%",
+    "uptimeMonth": "84.85%",
+    "uptimeYear": "84.85%",
     "time": 2253,
-    "timeDay": 2221,
+    "timeDay": 2231,
     "timeWeek": 2241,
     "timeMonth": 2253,
     "timeYear": 2253,
@@ -55,8 +55,7 @@
       "2024-03-09": 758,
       "2024-03-08": 224,
       "2024-03-07": 7,
-      "2024-03-04": 36,
-      "2024-03-01": 7
+      "2024-03-04": 36
     }
   },
   {

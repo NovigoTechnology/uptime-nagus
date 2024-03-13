@@ -15,7 +15,7 @@ sites:
     url: https://docs.nagus.app
     icon: https://docs.nagus.app/assets/frappe/images/frappe-favicon.svg
 assignees: # Users to assign downtime issues (optional)
-  - earona
+#  - earona
 
 
 status-website:

@@ -1,7 +1,7 @@
 url: https://arandu.nagus.app
-status: up
-code: 200
-responseTime: 1804
-lastUpdated: 2024-05-28T13:36:51.564Z
+status: down
+code: 503
+responseTime: 2939
+lastUpdated: 2024-05-28T19:26:37.721Z
 startTime: 2024-03-01T11:17:28.042Z
 generator: Upptime <https://github.com/upptime/upptime>
